@@ -1,0 +1,8 @@
+name: HG
+main: me.sistancecoding.curiouskits.hg.Main
+author: SistanceCoding
+version: 1.0
+depend: [Vault]
+commands:
+     hg:
+       description: Main Command
